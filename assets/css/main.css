@@ -702,6 +702,14 @@ input, select, textarea {
 			border: 0.75rem solid #ffffff;
 			border-radius: 50%;
 		}
+
+		.image.proj {
+			width: 2rem;
+			height: 2rem;
+			position: relative;
+			overflow: hidden;
+			margin-right: 0.75rem;
+		}
 		
 		.image.main {
 			display: block;
