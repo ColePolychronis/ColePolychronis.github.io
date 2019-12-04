@@ -25,6 +25,10 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
+	.contact-span{
+		padding-right: 0.75rem;
+	}
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
@@ -765,7 +769,7 @@ input, select, textarea {
 		}
 
 			ul.alt li {
-				border-top: solid 1px #ffffff;
+				/* border-top: solid 1px #ffffff; */
 				padding: 0.5em 0;
 			}
 
@@ -1175,7 +1179,7 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/arid.jpg");
+			background-image: url("../../images/forest.jpg");
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
